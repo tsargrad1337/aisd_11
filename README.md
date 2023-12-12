@@ -1,1 +1,1 @@
-# Карта сайта (dns-shop.ru)
+# Карта сайта (https://www.gismeteo.ru/)
